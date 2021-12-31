@@ -1,0 +1,4 @@
+{
+  "MONGO_URL": "mongodb+srv://mentor:mentor@mentorcluster.mjmgs.mongodb.net/MentorCluster?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken"
+}
